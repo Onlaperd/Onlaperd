@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAA&center=true&width=600&lines=Hey,+I'm+Onlapus;Async+Cutlet+in+Action;Backends,+Frontend,+Chaos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAA&center=true&width=600&lines=Hey,+I'm+Onlapus;Async+Cutlet+in+Action;Backend+and+Frontend+developer)](https://git.io/typing-svg)
 
 ## Hi there 👋 My name is Onlapus
 
