@@ -1,8 +1,17 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAA&center=true&width=600&lines=Hey,+I'm+Onlapus;Async+Cutlet+in+Action;Backends,+Frontend,+Chaos)](https://git.io/typing-svg)
+
 ## Hi there 👋 My name is Onlapus
 
+## About me
 💻 Fullstack python and java developer 
-🌍 From Ukraine  
-📬 Conatact me: [Email](mailto:onlapus@proton.me) | [Telegram](https://t.me/onlapus) | Discord: onlapus  
+🌍 From Ukraine
+
+
+## 📬 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-onlapus@proton.me-cyan?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlapus@proton.me)
+[![Telegram](https://img.shields.io/badge/Telegram-@onlapus-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/onlapus)
+[![Discord](https://img.shields.io/badge/Discord-onlapus-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/onlapus)
 
 ---
 
