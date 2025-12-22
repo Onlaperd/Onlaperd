@@ -3,7 +3,7 @@
 ## Hi there 👋 My name is Onlapus
 
 ## About me
-💻 Fullstack python and java developer 
+💻 Fullstack Python and Java developer 
 
 🌍 From Ukraine
 
@@ -25,6 +25,7 @@
 ![Aiogram](https://img.shields.io/badge/Aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-136791?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ### 🗄 Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
