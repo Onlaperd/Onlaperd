@@ -11,7 +11,9 @@
 ## 📬 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-onlapus@proton.me-cyan?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlapus@proton.me)
+
 [![Telegram](https://img.shields.io/badge/Telegram-@onlapus-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/onlapus)
+
 [![Discord](https://img.shields.io/badge/Discord-onlapus-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/onlapus)
 
 ---
